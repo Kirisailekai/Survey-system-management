@@ -1,6 +1,8 @@
-# Project Name
+Survey system management
 
-[Project Description]
+Tilek Sakyev
+Akmal Minbaev
+Erlan Omoshov
 
 ## Table of Contents
 
